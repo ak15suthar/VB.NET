@@ -1,0 +1,9 @@
+C:\Users\Abhishek\source\repos\tictacktow\tictacktow\bin\Debug\tictacktow.exe.config
+C:\Users\Abhishek\source\repos\tictacktow\tictacktow\bin\Debug\tictacktow.exe
+C:\Users\Abhishek\source\repos\tictacktow\tictacktow\bin\Debug\tictacktow.pdb
+C:\Users\Abhishek\source\repos\tictacktow\tictacktow\obj\Debug\tictacktow.csprojAssemblyReference.cache
+C:\Users\Abhishek\source\repos\tictacktow\tictacktow\obj\Debug\tictacktow.Form1.resources
+C:\Users\Abhishek\source\repos\tictacktow\tictacktow\obj\Debug\tictacktow.Properties.Resources.resources
+C:\Users\Abhishek\source\repos\tictacktow\tictacktow\obj\Debug\tictacktow.csproj.GenerateResource.cache
+C:\Users\Abhishek\source\repos\tictacktow\tictacktow\obj\Debug\tictacktow.exe
+C:\Users\Abhishek\source\repos\tictacktow\tictacktow\obj\Debug\tictacktow.pdb
