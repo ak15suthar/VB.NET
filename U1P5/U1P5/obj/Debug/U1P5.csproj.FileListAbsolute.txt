@@ -1,0 +1,9 @@
+C:\Users\Abhishek\source\repos\U1P5\U1P5\bin\Debug\U1P5.exe.config
+C:\Users\Abhishek\source\repos\U1P5\U1P5\bin\Debug\U1P5.exe
+C:\Users\Abhishek\source\repos\U1P5\U1P5\bin\Debug\U1P5.pdb
+C:\Users\Abhishek\source\repos\U1P5\U1P5\obj\Debug\U1P5.csprojAssemblyReference.cache
+C:\Users\Abhishek\source\repos\U1P5\U1P5\obj\Debug\U1P5.Form1.resources
+C:\Users\Abhishek\source\repos\U1P5\U1P5\obj\Debug\U1P5.Properties.Resources.resources
+C:\Users\Abhishek\source\repos\U1P5\U1P5\obj\Debug\U1P5.csproj.GenerateResource.cache
+C:\Users\Abhishek\source\repos\U1P5\U1P5\obj\Debug\U1P5.exe
+C:\Users\Abhishek\source\repos\U1P5\U1P5\obj\Debug\U1P5.pdb
