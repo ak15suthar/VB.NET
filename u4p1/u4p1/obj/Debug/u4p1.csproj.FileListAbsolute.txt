@@ -1,0 +1,9 @@
+D:\VB.NET\College\u4p1\u4p1\bin\Debug\u4p1.exe.config
+D:\VB.NET\College\u4p1\u4p1\bin\Debug\u4p1.exe
+D:\VB.NET\College\u4p1\u4p1\bin\Debug\u4p1.pdb
+D:\VB.NET\College\u4p1\u4p1\obj\Debug\u4p1.csprojAssemblyReference.cache
+D:\VB.NET\College\u4p1\u4p1\obj\Debug\u4p1.Form1.resources
+D:\VB.NET\College\u4p1\u4p1\obj\Debug\u4p1.Properties.Resources.resources
+D:\VB.NET\College\u4p1\u4p1\obj\Debug\u4p1.csproj.GenerateResource.cache
+D:\VB.NET\College\u4p1\u4p1\obj\Debug\u4p1.exe
+D:\VB.NET\College\u4p1\u4p1\obj\Debug\u4p1.pdb
