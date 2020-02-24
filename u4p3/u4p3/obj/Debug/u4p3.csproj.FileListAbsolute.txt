@@ -1,0 +1,9 @@
+C:\Users\Abhishek\source\repos\u4p3\u4p3\bin\Debug\u4p3.exe.config
+C:\Users\Abhishek\source\repos\u4p3\u4p3\bin\Debug\u4p3.exe
+C:\Users\Abhishek\source\repos\u4p3\u4p3\bin\Debug\u4p3.pdb
+C:\Users\Abhishek\source\repos\u4p3\u4p3\obj\Debug\u4p3.csprojAssemblyReference.cache
+C:\Users\Abhishek\source\repos\u4p3\u4p3\obj\Debug\u4p3.Form1.resources
+C:\Users\Abhishek\source\repos\u4p3\u4p3\obj\Debug\u4p3.Properties.Resources.resources
+C:\Users\Abhishek\source\repos\u4p3\u4p3\obj\Debug\u4p3.csproj.GenerateResource.cache
+C:\Users\Abhishek\source\repos\u4p3\u4p3\obj\Debug\u4p3.exe
+C:\Users\Abhishek\source\repos\u4p3\u4p3\obj\Debug\u4p3.pdb
