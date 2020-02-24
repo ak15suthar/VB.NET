@@ -1,0 +1,10 @@
+D:\VB.NET\College\u4p2\u4p2\bin\Debug\u4p2.exe.config
+D:\VB.NET\College\u4p2\u4p2\bin\Debug\u4p2.exe
+D:\VB.NET\College\u4p2\u4p2\bin\Debug\u4p2.pdb
+D:\VB.NET\College\u4p2\u4p2\obj\Debug\u4p2.csprojAssemblyReference.cache
+D:\VB.NET\College\u4p2\u4p2\obj\Debug\u4p2.Form1.resources
+D:\VB.NET\College\u4p2\u4p2\obj\Debug\u4p2.Form2.resources
+D:\VB.NET\College\u4p2\u4p2\obj\Debug\u4p2.Properties.Resources.resources
+D:\VB.NET\College\u4p2\u4p2\obj\Debug\u4p2.csproj.GenerateResource.cache
+D:\VB.NET\College\u4p2\u4p2\obj\Debug\u4p2.exe
+D:\VB.NET\College\u4p2\u4p2\obj\Debug\u4p2.pdb
